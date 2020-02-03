@@ -53,7 +53,7 @@ export default class Navbar1 extends Component {
                                       this.setState({ SelectedPlace: place })
                                     }}
                                     types={['(regions)']}
-                                    componentRestrictions={{country: "ru"}}
+                                    componentRestrictions={{country: "in"}}
                                     />
                                 </div>
                                 <div className="input-field second-wrap">
